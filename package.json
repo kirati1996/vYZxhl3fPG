@@ -1,0 +1,16 @@
+{
+  "name": "oDcUMTTvhNIUdNU",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "บอลโลก โซนยุโรป แทงบอลโลก2022",
+  "keywords": [
+    "บอลโลก 2022 แทงบอลโลก2022",
+    "แชมป์บอลโลก เว็บ แทงบอลโลก",
+    "ข่าว กีฬา ฟุตบอล ล่าสุด บอลโลก โซนยุโรป"
+  ],
+  "repository": "https://github.com/kirati1996/vYZxhl3fPG.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
